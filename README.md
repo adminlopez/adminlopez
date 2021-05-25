@@ -1,4 +1,4 @@
-Colaborador: Isaac Alejandro López Castrejón
+Autor y colaborador: Isaac Alejandro López Castrejón
 
 Puesto o cargo: WEBMASTER/PROGRAMADOR SENIOR
 
